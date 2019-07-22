@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://prashantindurkar:prashant123@ds351807.mlab.com:51807/socialnetwork",
+  "jwtSecret": "mysecrecttoken",
+  "githubClientId": "8210228e07833facfd58",
+  "githubSecret": "1215a201004f4d815779327699ecccbe8eb34775"
+}
